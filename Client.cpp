@@ -31,7 +31,7 @@ int main()
 
 	//struct sockaddr_in serverAdd;
 
-	host = gethostbyname("192.168.225.156");
+	host = gethostbyname("***.***.***.***");
 
 	int iResult;
 
