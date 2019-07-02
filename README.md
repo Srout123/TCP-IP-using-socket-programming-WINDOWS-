@@ -78,4 +78,18 @@ The following tasks are done at server side:
 ·         Receive message from client
 
 ·         Send  message to the client
+
+The following tasks are done at client side:
+
+·         Create a socket for communication
+
+·         Configure TCP protocol with IP address of server and port number
+
+·         Connect with server through socket
+
+·         Wait for acknowledgement from server
+
+·         Send message to the server
+
+·         Receive message from server
  
